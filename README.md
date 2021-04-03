@@ -6,7 +6,7 @@ This is an example app creating using concepts learnt from the book.
 It is a simple library managmen application that runs on both android and ios.
 
 
-![Final App](./final.png)
+![App 1](./snap/1.png) ![App 2](./snap/5.png) ![App 3](./snap/6.png)
 
 ## Running the application
 
