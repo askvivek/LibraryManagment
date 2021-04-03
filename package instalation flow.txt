@@ -1,0 +1,41 @@
+~\LibraryManagment
+
+~\LibraryManagment>mkdir app
+
+~\LibraryManagment
+
+~\LibraryManagment>cd app
+
+~\LibraryManagment\app>mkdir assets components config pages redux
+
+~\LibraryManagment\app>mkdir routes styles utils
+
+~\LibraryManagment\app>cd..
+
+~\LibraryManagment>yarn add --dev eslint babel-eslint eslint eslint-plugin-react eslint-plugin-react-native
+
+~\LibraryManagment>yarn add --dev husky
+
+~\LibraryManagment>yarn add enzyme jest-enzyme enzyme-adapter-react-16 enzyme-react-16-adapter-setup --dev
+
+~\LibraryManagment>yarn add redux react-redux redux-promise redux-thunk
+
+~\LibraryManagment>yarn add react-navigation
+
+~\LibraryManagment>yarn add @react-navigation/native
+
+~\LibraryManagment>yarn add @react-navigation/stack
+
+~\LibraryManagment>yarn add react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+~\LibraryManagment>yarn
+
+~\LibraryManagment>yarn add axios
+
+~\LibraryManagment>yarn add redux-logger
+
+~\LibraryManagment>yarn add redux-devtools-extension
+
+~\LibraryManagment>yarn add redux-actions
+
+~\LibraryManagment>
