@@ -5,8 +5,8 @@ This repo contains the code for all the chapters of the book [React Made Native 
 This is an example app creating using concepts learnt from the book.
 It is a simple library managmen application that runs on both android and ios.
 
-
-![App 1](./snap/1.jpg=250x250) ![App 2](./snap/5.jpg) ![App 3](./snap/6.jpg)
+<img src="./snap/1.jpg" width="48">
+![App 1](./snap/1.jpg) ![App 2](./snap/5.jpg) ![App 3](./snap/6.jpg)
 
 ## Running the application
 
